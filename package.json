@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/BogoWroc/js-archetype-project/issues"
   },
-  "homepage": "https://github.com/BogoWroc/js-archetype-project#readme"
+  "homepage": "https://github.com/BogoWroc/js-archetype-project#readme",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.21",
+    "tslint": "^6.1.3",
+    "typescript": "^4.5.5"
+  }
 }
